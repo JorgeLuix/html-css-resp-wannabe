@@ -127,3 +127,18 @@ img {
 /************************************************
     SOLUZIONE RESPONSIVE
  ************************************************/
+@media screen and (max-width: 768px) {
+    
+.steps {
+    background-color: green;
+    width: 1140px;
+}
+.why-us .col-left{
+    width: 30% 
+}
+.why-us .col-right {
+    width: 70%;
+}
+
+
+}
